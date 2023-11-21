@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 5rem;
+
+}
+.genero{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    text-align: justify;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    text-align: justify;
+    padding: 20px;
+
+}
+
+body {
+    background-color: red;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.5rem;
+    padding: 10px 10px 10px 10px;
+
+}
+
+iframe {
+    padding-left: 10px;
+}
